@@ -146,3 +146,36 @@ body{
         font-weight: bold;
         margin: 16px 0;
     }
+
+.section-4{
+    display: flex;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.content4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #3882F6;
+    width: 900px;
+    padding: 48px 64px;
+    border-radius: 10px;
+}
+
+.call-header{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.call-sub{
+    font-size: 18px;
+    color: #E5E7EB;
+    filter: contrast(0.75);
+}
+
+button.call-button{
+    border: 2px solid #F9FAF8;
+}
