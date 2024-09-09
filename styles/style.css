@@ -1,0 +1,123 @@
+body{
+    font-family: 'Roboto';
+    margin:0;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-1{
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding:0 220px;
+}
+
+    .header1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+        .logo{
+            color: #F9FAF8;
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            margin: 16px 0;
+        }
+
+        .header-links{
+            list-style-type: none;
+            display: flex;
+            flex-direction: row;
+            margin-top: 24px;
+        }
+
+        a{
+            font-size: 18px;
+            color: #E5E7EB;
+            margin:0 16px;
+            filter: contrast(0.5);
+        }
+
+    .content1{
+        display: flex;
+        flex-direction: row;
+        margin: 128px 0;
+    }
+
+        .content-header{
+            font-size: 48px;
+            color: #F9FAF8;
+            font-weight: 900;
+        }
+
+        .description{
+            font-size: 18px;
+            color: #E5E7EB;
+            filter: contrast(0.5);
+        }
+
+        .header-pic{
+            width:550px;
+        }
+
+        button{
+            width: 130px;
+            height: 35px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #3882F6;
+            color: white;
+            margin: 16px 0;
+            border-radius: 8px;
+            border: none;
+            font-family: 'Roboto';
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+    .section-2{
+        display: flex;
+        flex-direction: column;
+    }
+        .header2{
+            text-align: center;
+            margin: 48px;
+            font-size: 36px;
+            font-weight: 900;
+            color: #1F2937;
+        }
+
+        .content2{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            padding: 0 300px;
+        }
+        
+        .square{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 0px 22px;
+        }
+        .info-pic{
+            display: flex;
+            width: 160px;
+            border: 4px solid #3882F6;
+            border-radius: 16px;
+        }
+
+        .subtext{
+            font-size: 18px;
+            color: #E5E7EB;
+            filter: contrast(0.25);
+            margin: 6px;
+            text-align: center;
+            text-wrap: wrap;
+            width: 168px;
+        }
