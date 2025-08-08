@@ -1,7 +1,9 @@
 # Landing-Page-Project
 Landing Page Project to learn Web Development
 
-Paying homage to a lost business idea of mine through this landing page. Val-Lineups was an idea for innovating the way players learn Valorant lineups to improve at the game.
+Paying homage to a lost business idea of mine through this landing page. Val-Lineups was an idea for innovating the way players learn Valorant lineups to improve at the game.  
+
+Site can be visited here: (https://connormcdonalds97.github.io/Landing-Page-Project/)
 
 Photo Credits:
 https://beebom.com/valorant-brimstone-abilities-tips-tricks/
